@@ -1,0 +1,4 @@
+Libaries i used in building my GitHub Portfplios are:
+
+Octokit.js - For Github fetch requests
+Open-props - For CSS pre-styled variables
